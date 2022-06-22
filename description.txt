@@ -1,0 +1,2 @@
+Title: AEBase Flashlight & Laser Pointer Items
+Author: aebaadcode & Oxy (thanks NightHawk for helping with light cone effect :D)
